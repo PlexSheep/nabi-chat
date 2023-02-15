@@ -1,0 +1,13 @@
+[package]
+name = "nabi-chat"
+authors = ["Christoph J. Scherr <software@cscherr.de>"]
+version = "0.1.0"
+license = "MIT"
+description = "a very small chat app for the command line, written in rust."
+readme = "README.md"
+homepage = "https://github.com/PlexSheep/nabi-chat"
+repository = "https://github.com/PlexSheep/nabi-chat"
+keywords = ["cli", "server", "chat"]
+categories = ["command-line-utilities"]
+
+[dependencies]
